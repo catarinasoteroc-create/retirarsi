@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.retirarsi.com/sitemap.xml
+Sitemap: https://retirarsi.com/sitemap.xml
